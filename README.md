@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there!
+🌱 I'm a mobile app developer specializing in iOS.
+🏀 I enjoy basketball, ♟️ chess.
+💡 I hope to develop applications that bring real-world benefits to everyday life.
 
-### Skills
+---
+
+### Languages & FrameWorks
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

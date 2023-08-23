@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Blog-E74C3C?logo=Tistory&logoColor=black">
+<img src="https://img.shields.io/badge/Blog-black?logo=Tistory&logoColor=E74C3C">
 <!--
 **tuche24/tuche24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

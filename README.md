@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/tistory-Blog-E74C3C">
 <!--
 **tuche24/tuche24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

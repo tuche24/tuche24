@@ -1,7 +1,7 @@
 ### Hi there!
-##### 🌱 I'm a mobile app developer specializing in iOS.
-##### 🏀 I enjoy basketball, ♟️ chess.
-##### 💡 I hope to develop applications that bring real-world benefits to everyday life.
+### 🌱 I'm a mobile app developer specializing in iOS.
+### 🏀 I enjoy basketball, ♟️ chess.
+### 💡 I hope to develop applications that bring real-world benefits to everyday life.
 
 ---
 
